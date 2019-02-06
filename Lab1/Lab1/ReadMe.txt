@@ -71,7 +71,9 @@ As you can see, my test cases all were recognized correctly as a String or only 
 placed into my final vector<int> after the isdigit checks. 
 
 Extra Credit: 
-[sisir.gudipati@shell ~]$ 
+1).[sisir.gudipati@shell ~]$ 
+2). There were no errors when I issued the make command. 
+Output: 
 Strings: these
 Strings: all
 Strings: are
