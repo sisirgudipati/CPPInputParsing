@@ -1,10 +1,16 @@
-Grader's name:
-grader's initials(used to mark comments in your code):
-Grader's email:
+Grader's name: Michael Liu
+grader's initials(used to mark comments in your code): ML
+Grader's email: liu.michael@wustl.edu
 
-Grade: /100
+Grade: 102/100
 
 Deductions: 
+Leaving commented-out sections of code in the source or header file
+unless there is a clear comment about why the code is being retained:
+-1
+No comments in enums.h and Lab1.cpp -2
+Extra credit +5
+
 The grader may leave comments throughout your graded code files. 
 Please search for the grader's initials above within you lab to find
 additional comments and feedback.
